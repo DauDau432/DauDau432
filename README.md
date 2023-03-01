@@ -1,7 +1,9 @@
 # 💫About Me :
-tính tình zui zẻ hòa đồg 
-cướp của ng giàu chia cho ng nhà
-thấy chuyện bất bình thì bỏ đi
+***tính tình zui zẻ hòa đồng***
+
+***cướp của người giàu chia cho người nhà***
+
+***thấy chuyện bất bình thì bỏ đi***
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discordapp.com/users/574572679927955456) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/daudau.432) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@daudau5.0) 
